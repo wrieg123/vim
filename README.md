@@ -1,5 +1,5 @@
 # vim
-This is my vim settings
+These are my vim settings (I got tired of looking everything up)
 
 ```
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
