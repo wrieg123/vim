@@ -14,5 +14,5 @@ set ai
 set incsearch
 set hlsearch
 
-autocmd Filetype cpp setlocal expandtab tabstop=2 shiftwidth=2
+autocmd Filetype cpp,javascript,html setlocal expandtab tabstop=2 shiftwidth=2
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
