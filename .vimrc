@@ -1,8 +1,8 @@
 syntax enable
 filetype plugin indent on
 set t_Co=256
-set background = dark
-colorscheme pablo
+colorscheme darkblue
+hi clear
 
 set cursorline
 set number
